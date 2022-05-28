@@ -6,7 +6,7 @@
 
 * Numpy
 * Matplotlib
-* TeensorFlow
+* TensorFlow
 
 
 | Tool  |                |
