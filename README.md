@@ -10,7 +10,7 @@
 
 
 ### Installation
-#### We start by installing the following python libraries, but note python 3 should already been installed on your device.
+#### We start by installing the following python libraries using your terminal, but note python 3 should have already been installed on your device.
 * Numpy - pip install numpy
 * Matplotlib - pip install matplotlib
 * TensorFlow - pip install tensorflow
