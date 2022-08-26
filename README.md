@@ -15,5 +15,5 @@
 * Matplotlib - pip install matplotlib
 * TensorFlow - pip install tensorflow
 
-### Run the app
+### To run the app
 #### Open your windows, mac or linux terminal and run the code.
