@@ -1,6 +1,6 @@
 ## Image Classifier App
 
-### This is a Deep Learner Terminal App that classify flower images and maps them to their various names.
+### This is a Deep Learner Terminal App that classify flower images and map them to their various names.
 
 
 | Tool  |                |
@@ -16,4 +16,4 @@
 * TensorFlow - pip install tensorflow
 
 ### To run the app
-#### Open your windows, mac or linux terminal and run the code.
+#### Open your windows, mac or linux terminal and run the python script. The procedure of how to use the saved model is explained when you run the python script.
